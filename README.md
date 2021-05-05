@@ -13,5 +13,5 @@ Next, I craeted two dataframes to house the scores and I eventually combined the
 ## Future work
 Based on conversation with a colleague, I understand the current process is probably not the most efficient. In the next iteration, I will look at how to make the process 
 even more efficient and streamlined. 
-For the moment though, this tool works for my purpose by grabbing the scores from the few pages I specified (users can input more if necessary) and summarize the scores in a simple
+For the time being, this tool works for my purpose by grabbing the scores from the few pages I specified (users can input more if necessary) and summarize the scores in a simple
 table.
